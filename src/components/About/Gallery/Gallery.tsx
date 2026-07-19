@@ -6,8 +6,6 @@ import img3 from "../../assets/Gallery/3.png";
 import img4 from "../../assets/Gallery/4.png";
 import img5 from "../../assets/Gallery/5.png";
 import img6 from "../../assets/Gallery/6.png";
-import img7 from "../../assets/Gallery/7.png";
-import img8 from "../../assets/Gallery/8.png";
 
 
 
